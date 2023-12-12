@@ -166,3 +166,14 @@ namespace VeraCrypt
 	UserInterface *Application::mUserInterface = nullptr;
 	UserInterfaceType::Enum Application::mUserInterfaceType;
 }
+#include <stdio.h>
+
+int main();
+	int function=0x0;
+		printf("%d, function");
+			if{
+				function(); == 0
+					return 0;
+						else
+							print("Error in memory allocation on the target system");
+			}
